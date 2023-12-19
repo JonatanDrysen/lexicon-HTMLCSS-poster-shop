@@ -1,4 +1,4 @@
-![poster](./poster.png)
+![poster](./mocks/poster.png)
 
 # Figma - Poster shop
 
@@ -12,6 +12,6 @@ Asset folder included.
 
 ## Screens
 
-![screens](./screens.png)
+![screens](.//mocks/screens.png)
 
-![screens2](./check-out.png)
+![screens2](./mocks/check-out.png)
