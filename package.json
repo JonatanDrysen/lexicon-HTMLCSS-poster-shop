@@ -1,0 +1,19 @@
+{
+  "name": "task5-poster-shop",
+  "version": "1.0.0",
+  "description": "![poster](./mocks/poster.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonatanDrysen/lexicon-HTMLCSS-poster-shop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonatanDrysen/lexicon-HTMLCSS-poster-shop/issues"
+  },
+  "homepage": "https://github.com/JonatanDrysen/lexicon-HTMLCSS-poster-shop#readme"
+}
