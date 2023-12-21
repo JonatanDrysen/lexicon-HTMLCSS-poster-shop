@@ -1,5 +1,7 @@
 :root {
     --primary-green: #3DE07E;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 body {

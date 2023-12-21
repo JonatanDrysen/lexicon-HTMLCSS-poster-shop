@@ -1,0 +1,29 @@
+:root {
+    --primary-green: #3DE07E;
+    --soft-black: #222222;
+}
+
+.section-hero {
+    background-color: var(--primary-green);
+    display: grid;
+    height: 75vh;
+}
+
+.container-hero {
+    display: grid;
+    grid-template-rows: auto 1fr;
+    justify-content: center;
+}
+
+.text-hero {
+    color: var(--soft-black);
+    font-size: 5rem;
+    padding-top: 3rem;
+    margin: 0;
+}
+
+.ninja-hero {
+    justify-self: center;
+    align-self: end;
+    margin-left: -2rem;
+}
