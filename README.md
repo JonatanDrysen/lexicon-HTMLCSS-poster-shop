@@ -1,3 +1,5 @@
+### This repo uses CSS Grid.
+
 ![poster](./mocks/poster.png)
 
 # Figma - Poster shop
