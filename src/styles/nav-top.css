@@ -1,0 +1,16 @@
+:root {
+    --primary-green: #3DE07E;
+}
+
+.section-nav-top {
+    background-color: var(--primary-green);
+    padding: 1rem;
+}
+
+.container-nav-top {
+    padding: 1rem;
+}
+
+.navicon {
+    cursor: pointer;
+}
