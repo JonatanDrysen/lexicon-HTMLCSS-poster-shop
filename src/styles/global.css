@@ -1,12 +1,16 @@
 :root {
     --primary-green: #3DE07E;
+    --button-red: #E83F57;
     --dark-gray: #333333;
     --soft-black: #222222;
     --hard-black: #000000;
 
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    --primary-font: "Franklin Gothic Medium";
+    --secondary-font: "Franklin Gothic Light";
+    --tertiary-font: "Arial Slim";  
 }
 
 body {
+    font-family: var(--primary-font);
     margin: 0;
 }
